@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Proximate
 - 🌱 I’m currently learning Elixir-lang
 - 💬 Ask me about Python and ML
-- 📫 How to reach me: [X](https://x.com) [ProductHunt](https://www.producthunt.com/@al_haji_grov), [Altern](https://altern.ai/@alhajigrov)
 
 <!--
 **alhajigrov/alhajigrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
